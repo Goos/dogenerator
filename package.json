@@ -1,0 +1,14 @@
+{
+    "name": "dogenerator",
+    "version": "0.0.1",
+    "description": "wow such generator many image",
+    "main": "index.js",
+    "keywords": [
+        "wow", "doge"
+    ],
+    "author": "Robin Goos <robingoos@gmail.com>",
+    "license": "MIT",
+    "dependencies": {
+        "express": "*"
+    }
+}
