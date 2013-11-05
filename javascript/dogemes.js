@@ -1,4 +1,4 @@
-var Canvas = require('../lib/canvas');
+var Canvas = require('../lib/node-canvas');
 var fs = require('fs');
 var Image = Canvas.Image;
 var font = '24px ComicSansMS';

@@ -1,4 +1,4 @@
-so ../lib/canvas as Canvas
+so ../lib/node-canvas as Canvas
 so fs
 very Image is Canvas.Image;
 very font is '24px ComicSansMS';
